@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+      "audio2textjs": "^1.0.5"
+    }
+  }
+  
